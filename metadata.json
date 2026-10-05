@@ -1,0 +1,7 @@
+{
+  "name": "Garments ERP",
+  "description": "Smart Garments Management & Business Control System for garments manufacturing and T-shirt (গেঞ্জি) selling in Bangladesh.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
